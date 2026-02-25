@@ -1,6 +1,7 @@
 # Welcome to eve.js!
 > [!WARNING]
-> Right now, the only code published here is the code that completes the handshake, as that is the only code that is 100% completed and works.\
+> Right now, the only code published here is the code that completes the handshake, as that is the only code that is 100% completed and works.
+
 > [!WARNING]
 > This repository is in its very early stages, so do not expect everything to work perfectly. I am still learning to use JavaScript, so the code could be improved. Feel free to open a PR!
 
